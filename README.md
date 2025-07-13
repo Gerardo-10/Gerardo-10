@@ -25,7 +25,7 @@
 <a href="mailto:gerardomanuel10032003@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="www.linkedin.com/in/gerardo-flores-guerrero" target="_blank">
+<a href="https://www.linkedin.com/in/gerardo-flores-guerrero" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://wa.me/51969003884" target="_blank">
